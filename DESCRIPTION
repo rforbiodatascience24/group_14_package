@@ -1,0 +1,27 @@
+Package: central.dogma
+Type: Package
+Title: Replication of the Central Dogma
+Version: 0.1.0
+Author: Who wrote it
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: This package replicated the central dogma of molecular biology
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Authors@R:
+  c(person(given = "Julie Bruun",
+           family = "Brockhoff",
+           role = c("aut", "cre"), # There must be a "cre", but there can only be one
+           email = "s204519@dtu.com"), 
+    person(given = "Cecilie Kejlberg",
+           family = "Leth",
+           role = "aut",
+           email = "s204584@dtu.com"),
+    person(given = "Lise Lotte",
+           family = "Eriksen",
+           role = "aut",
+           email = "s154123@dtu.com"),
+    person(given = "Chrysillis Hellemann",
+           family = "Polhaus",
+           role = "aut",
+           email = "cjmp@dtu.com"))
